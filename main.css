@@ -35,7 +35,20 @@
 .b3, .b4{
     padding:40px 50px 40px 50px;
 }
-
+.wrap{
+    text-align: right;
+    padding-bottom:3px;
+    position: relative;
+    bottom:32px;
+    right:20px;
+}
+.srch-term{
+    height: 34px;
+    position: relative;
+    left:5px;
+    top:2px;
+    border:1px solid gray;
+}
 .basic{
 
     background: black;

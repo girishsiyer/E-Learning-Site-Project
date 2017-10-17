@@ -6,7 +6,8 @@
     padding:100px 0px 100px 0px;
     line-height: 2em;
     font-family: "Helvetica";
-    background: gray;
+    background: rgb(31, 29, 29);
+    color: white;
 }
 
 .block2{

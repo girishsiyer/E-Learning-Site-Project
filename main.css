@@ -2,8 +2,8 @@
     margin-bottom: 0px;
 }
 
-.block1{
-    padding:100px 0px 100px 0px;
+.jumbotron{
+    margin:auto;
     line-height: 2em;
     font-family: "Helvetica";
     background: rgb(31, 29, 29);
